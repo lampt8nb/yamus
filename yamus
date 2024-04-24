@@ -1,0 +1,12 @@
+Using host_id: f06db1c5-cd98-46e1-b733-e8f50ab37b2b
+xserver-xorg-video-dummy is not up-to-date
+PipeWire not found. Not enabling PipeWire audio support.
+Launching X server and X session.
+Setting up and launching session
+Starting Xvfb on display :20
+X server is active.
+Launching X session: ['/opt/google/chrome-remote-desktop/chrome-remote-desktop-host', '--type=xsession_chooser']
+Launching host process
+['/opt/google/chrome-remote-desktop/chrome-remote-desktop-host', '--host-config=-', '--audio-pipe-name=/tmp/pyxdg-runtime-dir-fallback-codespace/crd_audio#6s6G_LtuE_/fifo_output', '--ssh-auth-sockname=/tmp/chromoting.codespace.ssh_auth_sock', '--signal-parent']
+Host ready to receive connections.
+Log file: /tmp/chrome_remote_desktop_20240424_183658_EaUbuL
